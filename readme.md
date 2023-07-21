@@ -1,0 +1,1 @@
+This documentation can be used to generate documentation for projects and help you understand your code better incase you take a long while before you review your code. and in cases of collaboration it can be used to enhance type-checking. 
